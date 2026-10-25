@@ -72,3 +72,4 @@ Plan limits live in `apps/api/src/lib/plans.ts` — edit them to match your pric
 ## Status of this scaffold
 
 Written and reviewed by hand but **not yet compiled or run** — the environment it was generated in could not reach the npm registry. First run: `npm install && npm run typecheck && npm test`, fix anything the compiler flags, then do the quick-start flow end to end.
+# saas-starter-project
